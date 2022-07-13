@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angular-2e2e1": {
+      "hosting": {
+        "royal-crm": [
+          "angular-2e2e1"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angular-2e2e1"
+  }
+}
